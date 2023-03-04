@@ -35,7 +35,9 @@
 	
 
 }
-
+#header img{
+	display:none;
+}
 .navbar{
 	position: absolute;
 	margin-top: -880px;
@@ -485,12 +487,21 @@
 	margin-top:-303px;
 	
 	
-	
-	}
-	.navbar{
-		display: none;
+	#header img{
+		width: 40px;
+		height: 25px;
+		float: right;
+		margin-right: 30px;
+		display: block;
+		margin-top: 2px;
 		
 	}
+	#header img:hover .navbar{
+		display: block
+	}
+	
+	}
+	
 	
 	
 		
