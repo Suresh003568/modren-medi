@@ -32,6 +32,7 @@
 	margin: auto;
 	margin-top: -908px;
 	opacity: 35%;
+	position: fixed;
 	
 
 }
@@ -42,7 +43,7 @@
 	position: absolute;
 	margin-top: -880px;
 	margin-left: 537px;
-	
+	position: fixed;
 	
 }
 .navbar a{
@@ -69,15 +70,16 @@
 	margin-left: 121px;
 	margin-top: -889px;
 	position: absolute;
+	position: fixed;
 }
 .parah10{
 	font-family: 'Roboto', sans-serif; 
-	font-size: 10px;
+	font-size: 16px;
 	font-weight:bold;
-	margin-top: -842px;
+	margin-top: -832px;
 	position: absolute;
 	color:white;
-	margin-left: 110px;
+	margin-left: 90px;
 }
 .parah11{
 	font-family: 'Roboto', sans-serif; 
